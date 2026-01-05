@@ -1,0 +1,31 @@
+[
+  {
+    "category": "Lenguajes",
+    "skills": [
+      { "name": "Java", "level": "Intermedio" },
+      { "name": "Python", "level": "Principiante" },
+      { "name": "JavaScript", "level": "Principiante" },
+      { "name": "TypeScript", "level": "Principiante" },
+      { "name": "Dart", "level": "Principiante" },
+      { "name": "SQL", "level": "Principiante" }
+    ]
+  },
+  {
+    "category": "Frameworks y Librerías",
+    "skills": [
+      { "name": "Next.js" },
+      { "name": "React" },
+      { "name": "Flutter" },
+      { "name": "Laravel" },
+      { "name": "Tailwind CSS" }
+    ]
+  },
+  {
+    "category": "Bases de Datos",
+    "skills": [{ "name": "MySQL" }, { "name": "PostgreSQL" }, { "name": "MongoDB" }]
+  },
+  {
+    "category": "Cloud y DevOps",
+    "skills": [{ "name": "AWS (EC2, S3, RDS)" }, { "name": "Docker (básico)" }]
+  }
+]

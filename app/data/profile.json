@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Hector Henrique Perez Vengoa",
+    "role": "Fullstack Developer",
+    "bio": "Desarrollador Fullstack con experiencia en Next.js, React, Node.js y bases de datos SQL y NoSQL. Apasionado por crear soluciones web eficientes y escalables.",
+    "location": "Ate, Perú",
+    "image": "/imgProfile.jpg",
+    "stats": [
+      {
+        "label": "LinkedIn",
+        "icon": "linkedin",
+        "url": "https://www.linkedin.com/in/hector-henrique-perez-vengoa/"
+      },
+      {
+        "label": "GitHub",
+        "icon": "github",
+        "url": "https://github.com/hperevengoa"
+      },
+      {
+        "label": "Email",
+        "icon": "email",
+        "url": "mailto:hperezvengoa@gmail.com"
+      },
+      {
+        "label": "WhatsApp",
+        "icon": "whatsapp",
+        "url": "https://wa.me/51930404900"
+      }
+    ]
+  }
+]

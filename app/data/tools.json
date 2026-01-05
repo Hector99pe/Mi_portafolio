@@ -1,0 +1,32 @@
+[
+  {
+    "name": "VS Code",
+    "category": "Editor",
+    "usage": "Editor principal para desarrollo frontend y backend."
+  },
+  {
+    "name": "Git",
+    "category": "Control de versiones",
+    "usage": "Gestión de versiones y trabajo colaborativo."
+  },
+  {
+    "name": "GitHub",
+    "category": "Plataforma",
+    "usage": "Repositorios, control de cambios y documentación."
+  },
+  {
+    "name": "GitHub Copilot",
+    "category": "AI-assisted Development",
+    "usage": "Asistencia en scaffolding de componentes, rutas API y tipado TypeScript, con revisión y refactorización manual."
+  },
+  {
+    "name": "Postman",
+    "category": "APIs",
+    "usage": "Pruebas y validación de APIs REST."
+  },
+  {
+    "name": "Figma",
+    "category": "Diseño",
+    "usage": "Diseño de interfaces y prototipos UI."
+  }
+]

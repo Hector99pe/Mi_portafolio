@@ -1,0 +1,43 @@
+[
+  {
+    "title": "HistoriAR",
+    "description": "Aplicación móvil de realidad aumentada para la visualización interactiva de monumentos históricos.",
+    "problem": "La información histórica tradicional no resulta atractiva ni interactiva para el público joven.",
+    "solution": "Uso de realidad aumentada para mostrar modelos 3D y datos históricos de forma inmersiva.",
+    "techStack": ["Flutter", "AR", "Node.js", "MongoDB"],
+    "highlights": [
+      "Arquitectura desacoplada",
+      "Consumo de API REST",
+      "Experiencia de usuario interactiva"
+    ],
+    "links": {
+      "repo": "https://github.com/tu-usuario/historiar"
+    }
+  },
+  {
+    "title": "PlayFit",
+    "description": "Plataforma orientada al bienestar estudiantil mediante gamificación y seguimiento de actividad física.",
+    "problem": "Falta de motivación para mantener hábitos saludables en estudiantes.",
+    "solution": "Sistema gamificado que incentiva la actividad física y el bienestar.",
+    "techStack": ["Flutter", "Node.js", "APIs", "IoT"],
+    "highlights": [
+      "Enfoque en experiencia de usuario",
+      "Integración con sensores",
+      "Modelo de negocio validado académicamente"
+    ],
+    "links": {
+      "repo": "https://github.com/tu-usuario/playfit"
+    }
+  },
+  {
+    "title": "Portafolio Web",
+    "description": "Portafolio personal desarrollado con arquitectura moderna y datos desacoplados.",
+    "problem": "Necesidad de mostrar proyectos y perfil técnico de forma profesional.",
+    "solution": "Aplicación web con Next.js consumiendo APIs mock, sin hardcoding.",
+    "techStack": ["Next.js", "TypeScript", "Tailwind CSS"],
+    "highlights": ["Arquitectura limpia", "Mock API", "Diseño técnico dark mode"],
+    "links": {
+      "repo": "https://github.com/tu-usuario/portfolio"
+    }
+  }
+]
