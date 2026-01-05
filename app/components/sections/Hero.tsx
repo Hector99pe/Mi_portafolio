@@ -5,7 +5,7 @@ export default function Hero() {
   const { name, role, bio, stats } = profile[0];
 
   return (
-    <section className="min-h-screen flex items-center justify-center text-white relative overflow-hidden py-12">
+    <section className="h-auto flex items-center justify-center text-white relative overflow-hidden py-20">
       <div className="max-w-7xl mx-auto px-8 grid grid-cols-12 gap-12 items-center relative z-10">
         {/* Imagen mejorada */}
         <div className="col-span-5 flex items-center justify-center">

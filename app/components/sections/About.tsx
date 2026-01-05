@@ -4,7 +4,7 @@ export default function About() {
   const { summary, focusAreas, currentStatus } = about[0];
 
   return (
-    <section className="min-h-fit bg-transparent text-white relative py-12">
+    <section className="min-h-fit bg-transparent text-white relative py-20">
       <div className="max-w-7xl mx-auto px-8 relative z-10">
         {/* Título */}
         <div className="mb-16">
