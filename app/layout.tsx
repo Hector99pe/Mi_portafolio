@@ -1,3 +1,5 @@
+import Footer from '@/app/components/layout/Fotter';
+import Header from '@/app/components/layout/Header';
 import StarBackground from '@/app/components/StarBackground';
 import type { Metadata } from 'next';
 import { Geist, Geist_Mono } from 'next/font/google';
@@ -27,7 +29,9 @@ export default function RootLayout({
     <html lang="en">
       <body className={`${geistSans.variable} ${geistMono.variable} antialiased bg-slate-950`}>
         <StarBackground />
-        <div className="relative z-10">{children}</div>
+        <Header />
+        <div className="relative z-10 pt-36">{children}</div>
+        <Footer />
       </body>
     </html>
   );
